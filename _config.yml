@@ -1,0 +1,45 @@
+# Dependencies
+highlighter: rouge
+
+# Permalinks
+permalink: /posts/:title
+timezone: Asia/Kolkata
+
+# Setup
+title: SPIT Coder's Club - Open Source Developers Group
+description: 'This is official webpage of SPIT Coder/' Club'
+baseurl:     'spit-osd.github.io'
+url:         'http://carlosbecker.com'
+
+author:
+  name: 'SPIT Coder/'s Club Team'
+  url: https://twitter.com/vikesh002
+  email: tvicky002+spitosd@gmail.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bin
+
+gems:
+  # - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+
+sass:
+  sass_dir: _scss
+  compressed: true
+
+paginate: 3
+
+# Custom vars
+show_related_posts: true
+animated: true
+
+# Social icons
+show_social_icons: true
+github_username: spit-osd
+twitter_username: vikesh002
+
+google_analytics:
+disqus_shortname: vicky002
