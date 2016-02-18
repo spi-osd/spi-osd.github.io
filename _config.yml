@@ -1,5 +1,5 @@
 # Dependencies
-highlighter: kramdown
+highlighter: rouge
 
 # Permalinks
 permalink: /posts/:title
