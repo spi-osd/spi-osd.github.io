@@ -8,8 +8,8 @@ timezone: Asia/Kolkata
 # Setup
 title: SPIT Coders Club - Open Source Developers Group
 description: 'This is official webpage of SPIT Coders Club'
-baseurl:     'spit-osd.github.io'
-url:         ''
+baseurl:     ''
+url:         'spit-osd.github.io'
 
 author:
   name: 'SPIT Coders Club Team'
